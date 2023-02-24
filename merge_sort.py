@@ -38,10 +38,10 @@ def merge_sort(array):
         right_array = []
         m = int(array_length / 2)
 
-        for i in range(0, m, 1):
+        for i in range(0, m):
             left_array.append(array[i])
 
-        for j in range(m, array_length, 1):
+        for j in range(m, array_length):
             right_array.append(array[j])
 
         left_array = merge_sort(left_array)
