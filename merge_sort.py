@@ -10,20 +10,20 @@ def merge(l, r):
     while (i < l_lenght) & (j < r_lenght):
         if l[i] < r[j]:
             n.append(l[i])
-            i = i + 1
+            i += 1
         else:
             n.append(r[j])
-            j = j + 1
+            j += 1
 
     # Remainder of left list
     while i < l_lenght:
         n.append(l[i])
-        i = i + 1
+        i += 1
 
     # Remainder of right list
     while j < r_lenght:
         n.append(r[j])
-        j = j + 1
+        j += 1
 
     return n
 
