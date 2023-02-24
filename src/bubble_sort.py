@@ -4,7 +4,7 @@ def bubble_sort(array):
     while change_place != False:
 
         change_place = False
-        for i in range(0, len(array) - 1, 1):
+        for i in range(0, len(array) - 1):
 
             if array[i] > array[i + 1]:
                 tmp = array[i]
