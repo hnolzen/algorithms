@@ -17,3 +17,7 @@ Primarily I will use Python. But maybe I will also use Java or Go.
 |:-------:|:-------------------------------------:|
 |   [x]   | BubbleSort                            |
 |   [x]   | MergeSort                             |
+
+
+### Licence
+[MIT licence](./LICENSE)
