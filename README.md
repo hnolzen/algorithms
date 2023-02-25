@@ -19,7 +19,7 @@ Primarily I will use Python. But maybe I will also use Java or Go.
 | :heavy_check_mark: | MergeSort                             |
 | :construction:     | SelectionSort                         |
 | :construction:     | HeapSort                              |
-| :construction:     | QuickeSort                            |
+| :construction:     | QuickSort                             |
 | :construction:     | TreeSort                              |
 | :construction:     | InsertionSort                         |
 | :construction:     | Binary Search                         |
