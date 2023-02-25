@@ -13,10 +13,21 @@ Primarily I will use Python. But maybe I will also use Java or Go.
 
 ### Overview
 
-| Status  | Algorithm / Exercise                  |
-|:-------:|:-------------------------------------:|
-|   [x]   | BubbleSort                            |
-|   [x]   | MergeSort                             |
+| Status             | Algorithm / Exercise                  |
+|:------------------:|:-------------------------------------:|
+| :heavy_check_mark: | BubbleSort                            |
+| :heavy_check_mark: | MergeSort                             |
+| :construction:     | SelectionSort                         |
+| :construction:     | HeapSort                              |
+| :construction:     | QuickeSort                            |
+| :construction:     | TreeSort                              |
+| :construction:     | InsertionSort                         |
+| :construction:     | Binary Search                         |
+| :construction:     | Symmetric Difference                  |
+| :construction:     | Towers of Hanoi                       |
+| :construction:     | Ackermann function                    |
+| :construction:     | Fibonacci sequence                    |
+| :construction:     | Hoshen-Kopelman                       |
 
 
 ### Licence
